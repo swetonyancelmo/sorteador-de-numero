@@ -70,7 +70,7 @@ button:focus, .btn:focus {
   outline: none;
 }
 
-input, select, textarea {
+input {
   font-family: inherit;
   font-size: 1rem;
   padding: 8px 10px;
@@ -82,7 +82,7 @@ input, select, textarea {
   transition: border 0.2s;
 }
 
-input:focus, select:focus, textarea:focus {
+input:focus {
   border-color: var(--primary);
   outline: none;
 }
