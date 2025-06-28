@@ -11,7 +11,7 @@ Um sorteador de números simples, rápido e eficiente para sorteios, rifas e din
 
 ## 🖥️ Veja online
 
-[Acesse aqui](https://seuprojeto.vercel.app)
+[Acesse aqui](https://numera-sort.vercel.app/)
 
 ## 🛠️ Tecnologias
 
