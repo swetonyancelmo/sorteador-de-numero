@@ -2,7 +2,7 @@
 
 Um sorteador de números simples, rápido e eficiente para sorteios, rifas e dinâmicas!
 
-![Demonstração](caminho/para/gif-ou-imagem.gif)
+![Demonstração](image/sorteador.png)
 
 ## 🚀 Funcionalidades
 
@@ -22,8 +22,8 @@ Um sorteador de números simples, rápido e eficiente para sorteios, rifas e din
 ## ▶️ Como rodar
 
 ```bash
-git clone https://github.com/seuusuario/seurepo.git
-cd seurepo
+git clone https://github.com/swetonyancelmo/sorteador-de-numero.git
+cd sorteador-de-numero
 # Abra o index.html no navegador
 ```
 
