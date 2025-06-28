@@ -2,7 +2,6 @@
 
 Um sorteador de números simples, rápido e eficiente para sorteios, rifas e dinâmicas!
 
-![Demonstração](image/sorteador.png)
 
 ## 🚀 Funcionalidades
 
