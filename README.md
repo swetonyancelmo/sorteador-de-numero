@@ -1,8 +1,38 @@
-# HISTÓRIA DE USUÁRIO
+# NumeraSort
 
-1. O usuário não precisa fazer login/registro
-2. O usuário deverá colocar obriatoriamente:
-  2.1 Quantidade de números a serem sorteados
-  2.2 Valor inicial
-  2.3 Valor final
-3. O usuário poderá sortear novamente sempre que terminar, colocado novas características ou não
+Um sorteador de números simples, rápido e eficiente para sorteios, rifas e dinâmicas!
+
+![Demonstração](caminho/para/gif-ou-imagem.gif)
+
+## 🚀 Funcionalidades
+
+- Sorteio de números únicos em intervalos personalizados
+- Interface responsiva e intuitiva
+- Validação de entradas para evitar erros
+
+## 🖥️ Veja online
+
+[Acesse aqui](https://seuprojeto.vercel.app)
+
+## 🛠️ Tecnologias
+
+- HTML5, CSS3, JavaScript
+- [Outras libs/frameworks, se houver]
+
+## ▶️ Como rodar
+
+```bash
+git clone https://github.com/seuusuario/seurepo.git
+cd seurepo
+# Abra o index.html no navegador
+```
+
+## 💡 Diferenciais
+
+- Visual moderno com paleta de cores verde para transmitir sorte
+- Código limpo e organizado
+- Totalmente responsivo
+
+## 👤 Contato
+
+[Seu LinkedIn](https://linkedin.com/in/seuperfil) | seuemail@email.com
