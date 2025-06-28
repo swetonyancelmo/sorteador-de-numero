@@ -35,4 +35,4 @@ cd seurepo
 
 ## 👤 Contato
 
-[Seu LinkedIn](https://linkedin.com/in/seuperfil) | seuemail@email.com
+[Seu LinkedIn](https://www.linkedin.com/feed/) | swetonyancelmo@email.com
